@@ -1,5 +1,6 @@
+'''
 commands to execute this project.
-
+'''
 1. need to create namespace
 
 kubectl apply -f namespace.yaml
