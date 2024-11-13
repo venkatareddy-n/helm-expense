@@ -70,5 +70,5 @@ spec:
    kind: Deployment
    name: backend
  minReplicas: 1
- maxReplicas: 6
+ maxReplicas: 5
  targetCPUUtilizationPercentage: 10 # once cup reached 10% it will create new pod automatically
