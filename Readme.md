@@ -22,3 +22,12 @@ kubectl get pods --> to see all pods
 
 kubectl get svc --> to se service url
 
+helm list --> to list all helm 
+
+To un-install
+=============
+helm uninstall frontend
+
+helm uninstall backend
+
+helm uninstall mysql
